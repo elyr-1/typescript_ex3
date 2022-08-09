@@ -1,4 +1,4 @@
-export const charChange = (str : string) =>{
+export const charChange = (str : string) => {
     let char = "";
     let letter = "";
     for (let i = 0; i < str.length; i++) { // traverse all characters in the string   
